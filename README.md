@@ -57,6 +57,3 @@ The AI agent:
 
 ## Contributing
 Feel free to fork, open issues, or submit PRs.
-
-## License
-[Your chosen license]
