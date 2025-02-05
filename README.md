@@ -1,0 +1,2 @@
+# AI-Snake-Game
+ Snake AI: A deep reinforcement learning project where an AI agent learns to play the classic Snake game. Using PyTorch and pygame, the agent employs Q-learning to master optimal movement strategies, avoiding collisions while collecting food to maximize score. The neural network processes 11 input states including danger detection and food location to determine the snake's next move. Watch as the AI evolves from random movements to strategic gameplay, demonstrating the power of machine learning in game environments.
